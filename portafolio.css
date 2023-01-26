@@ -1,0 +1,33 @@
+span{
+        color: gold;
+
+    }
+a{
+    color: gold;
+}
+h3{
+    color: gold;
+}
+
+#imagen{
+    background-image: url("./img/photo.jpg");
+}
+.my{
+    width: 75px;
+    text-align: center;
+    
+}
+section{
+    text-align: center;
+}
+.text{
+    font-family: cursive;
+    color: black;
+}
+.text2{
+    font-family: cursive;
+    color: darkgoldenrod;
+}
+footer{
+    background-color: gray;
+}
